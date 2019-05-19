@@ -27,7 +27,7 @@
 
 ### Windows Auithentication Error codes
 - <a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4625" title="https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4625">docs.microsoft.com</a> | Windows Event ID 4625
-- <a href="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625" title="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625">/www.ultimatewindowssecurity.com</a> | Windows Security Log Event ID 4625
+- <a href="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625" title="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625">www.ultimatewindowssecurity.com</a> | Windows Security Log Event ID 4625
 
 ### Oracle® Database
 - <a href="https://docs.oracle.com/cd/E18283_01/network.112/e16543/auditing.htm" title="https://docs.oracle.com/cd/E18283_01/network.112/e16543/auditing.htm">docs.oracle.com</a> | Oracle® Database Security Guide
