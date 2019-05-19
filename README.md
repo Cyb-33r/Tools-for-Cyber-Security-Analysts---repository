@@ -34,3 +34,6 @@
 
 ### Awesome Malware Analysis - Github repository
 - <a href="https://github.com/rshipp/awesome-malware-analysis" title="https://github.com/rshipp/awesome-malware-analysis">Awesome Malware Analysis tools</a> | Github
+
+### Checkpoint – Internal ports
+- <a href="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/" title="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/">Checkpoint – Internal ports</a> | Github
