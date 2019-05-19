@@ -41,10 +41,9 @@
 - <a href="https://www.fireeye.com/cyber-map/threat-map.html" title="https://www.fireeye.com/cyber-map/threat-map.html">FireEye</a> | Cyber Threat Map
 - <a href="https://threatmap.fortiguard.com/" title="https://threatmap.fortiguard.com/">Fortinet</a> | Cyber Threat Map
 - <a href="https://threatmap.bitdefender.com/" title="https://threatmap.bitdefender.com/">Bitdefender</a> | Cyber Threat Real-Time Map
-- <a href="https://threatbutt.com/map/" title="https://threatbutt.com/map/">Bitdefender</a> | Cyber Threat Real-Time Map
+- <a href="https://threatbutt.com/map/" title="https://threatbutt.com/map/">Threatbutt</a> | Live Botnet Threats Worldwide
+- <a href="https://www.deteque.com/live-threat-map/" title="https://www.deteque.com/live-threat-map/">Deteque</a> |  Cyber Threat Real-Time Map
 - <a href="https://www.deteque.com/live-threat-map/" title="https://www.deteque.com/live-threat-map/">Deteque</a> | Cyber Threat Real-Time Map
-- <a href="https://www.deteque.com/live-threat-map/" title="https://www.deteque.com/live-threat-map/">Deteque</a> | Live Botnet Threats Worldwide
-
 
 ## Awesome Malware Analysis - Github repository
 - <a href="https://github.com/rshipp/awesome-malware-analysis" title="https://github.com/rshipp/awesome-malware-analysis">Awesome Malware Analysis</a> | Github
