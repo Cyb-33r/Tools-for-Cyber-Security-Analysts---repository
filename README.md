@@ -35,7 +35,7 @@
 ### Checkpoint – Internal ports
 - <a href="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/" title="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/">Checkpoint – Internal ports</a> | Github
 
-### LIVE CYBER ATTACK THREAT MAPS
+### Live Cyber Attack Threat Maps
 - <a href="https://threatmap.checkpoint.com/ThreatPortal/livemap.html" title="https://threatmap.checkpoint.com/ThreatPortal/livemap.html">ThreadCloud</a> | Intelligence
 - <a href="https://cybermap.kaspersky.com/" title="https://cybermap.kaspersky.com/">Kapersky</a> | CyberThreat Real-Time Map
 - <a href="https://www.fireeye.com/cyber-map/threat-map.html" title="https://www.fireeye.com/cyber-map/threat-map.html">FireEye</a> | Cyber Threat Map
