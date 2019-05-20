@@ -33,7 +33,7 @@
 - <a href="https://docs.oracle.com/cd/E18283_01/network.112/e16543/auditing.htm" title="https://docs.oracle.com/cd/E18283_01/network.112/e16543/auditing.htm">docs.oracle.com</a> | Oracle® Database Security Guide
 
 ### Checkpoint – Internal ports
-- <a href="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/" title="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/">Checkpoint – Internal ports</a> | Github
+- <a href="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/" title="https://x443.wordpress.com/2011/02/07/checkpoint-internal-ports-explained/">Checkpoint – Internal ports</a> | Explanations
 
 ### Live Cyber Attack Threat Maps
 - <a href="https://threatmap.checkpoint.com/ThreatPortal/livemap.html" title="https://threatmap.checkpoint.com/ThreatPortal/livemap.html">ThreadCloud</a> | Intelligence
