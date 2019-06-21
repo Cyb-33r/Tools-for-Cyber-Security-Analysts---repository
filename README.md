@@ -45,7 +45,8 @@
 - <a href="https://www.deteque.com/live-threat-map/" title="https://www.deteque.com/live-threat-map/">Deteque</a> |  Cyber Threat Real-Time Map
 - <a href="https://www.deteque.com/live-threat-map/" title="https://www.deteque.com/live-threat-map/">Deteque</a> | Cyber Threat Real-Time Map
 
+## Knowledge
+- INTRODUCTION TO <a href="https://blogs.akamai.com/2017/09/introduction-to-dns-data-exfiltration.html" title="https://blogs.akamai.com/2017/09/introduction-to-dns-data-exfiltration.html">DNS DATA EXFILTRATION</a>
+
 ## Awesome Malware Analysis - Github repository
 - <a href="https://github.com/rshipp/awesome-malware-analysis" title="https://github.com/rshipp/awesome-malware-analysis">Awesome Malware Analysis</a> | Github
-
-
